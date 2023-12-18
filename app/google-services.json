@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703789707161",
+    "project_id": "msymphony-project",
+    "storage_bucket": "msymphony-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703789707161:android:7e6833eeadf57cd2d4ad08",
+        "android_client_info": {
+          "package_name": "com.thio.mymusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1lS8z1rHR6x1u0QGH3zytSr10mnPnoFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703789707161:android:43c1fe3851a3a563d4ad08",
+        "android_client_info": {
+          "package_name": "com.thio.symphony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1lS8z1rHR6x1u0QGH3zytSr10mnPnoFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
